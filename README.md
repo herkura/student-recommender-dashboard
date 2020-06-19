@@ -1,1 +1,1 @@
-# student-reccomender-system
+# student-recomender-system
