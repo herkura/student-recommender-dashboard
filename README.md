@@ -25,7 +25,7 @@
   ![](images/process.png)
 
 # Results
-* Relatiopn Between performance of the students to their gender.
+* Relationship between performance of the students to their gender.
 ![](images/output1.png)
 
 * Age vs Result
