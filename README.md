@@ -12,6 +12,7 @@
 # Proposed work 
   * The Predictive and Recommendation part of the project is the only module that remains to be fully implemented.
   * Currently the many methods to build initial models are being explored and based on their accuracies and the needs of the module, the  best  model will be implemented.
+  * UI (web-based or standalone) needs to be developed that will integrate all functionalities in one place.
 
 # Application and future scope
   * Using proposed work , we can use the system in classes to automate particular tasks such as making performance index of students, pass/fail prediction etc.
