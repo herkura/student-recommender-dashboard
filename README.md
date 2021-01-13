@@ -23,17 +23,17 @@
   ![](images/process.png)
 
 # Results
-* Relationship between performance of the students to their gender.
-![](images/output1.png)
+ * Relationship between performance of the students to their gender.
+   ![](images/output1.png)
 
-* Age vs Result
-![](images/output2.png)
+ * Age vs Result
+   ![](images/output2.png)
 
-* Higher education vs Perfromance
-![](images/output3.png)
+ * Higher education vs Perfromance
+   ![](images/output3.png)
 
-* IMD band vs performance
-![](images/output5.png)  
+ * IMD band vs performance
+   ![](images/output5.png)  
     
 
 
