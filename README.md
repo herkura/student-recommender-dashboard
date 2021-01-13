@@ -7,8 +7,8 @@
    With the project fully up and running the aim is as follows:
    * Feed in every student’s performance and train module to analyse the data.
    * Get predictions on how the students will perform in upcoming tests.
-   * Can predict if students will drop the course(if the fail/low performance) also help faculty to focus on weak students.
-
+   * Can predict if students will drop the course(if the fail/low performance) also help faculty to focus on weak students and present it in visually.
+   
 # Proposed work 
   * The Predictive and Recommendation part of the project is the only module that remains to be fully implemented.
   * Currently the many methods to build initial models are being explored and based on their accuracies and the needs of the module, the  best  model will be implemented.
