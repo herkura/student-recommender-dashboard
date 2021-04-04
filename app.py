@@ -5,7 +5,7 @@ import matplotlib.pyplot as plt
 from functools import reduce
 import warnings
 warnings.filterwarnings('ignore')
-
+st.set_option('deprecation.showPyplotGlobalUse', False)
 st.sidebar.title(" HeatMaps")
 st.title('Student Recommendation System')
 assessments = pd.read_csv(r'assessments.csv')
