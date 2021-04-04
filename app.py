@@ -9,7 +9,7 @@ st.set_option('deprecation.showPyplotGlobalUse', False)
 st.sidebar.title(" HeatMaps")
 st.title('Student Recommendation System')
 st.subheader('''With online classes now becoming more prominent than ever teachers will or have a hard time evaluating and understanding their students thereby focus on those students who more need attention and direction.
-             ''')
+            This project tries to explore ways to automate the process of assessing previous exam performance and predict if a student will drop the course or needs special attention or not. ''')
 assessments = pd.read_csv(r'assessments.csv')
 studentAssessment = pd.read_csv(r'studentAssessment.csv')
 studentInfo = pd.read_csv(r'studentInfo.csv')
