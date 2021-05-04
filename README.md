@@ -35,8 +35,7 @@
  * Higher education vs Perfromance
    ![](images/output3.png)
 
- * IMD band vs performance
-   ![](images/output5.png)  
+  
     
 
 
