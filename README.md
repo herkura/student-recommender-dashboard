@@ -3,7 +3,7 @@
   With online classes now becoming more prominent than ever teachers will or have a hard time evaluating and understanding their students thereby focus on those  students who more need attention and direction.
   This project tries to explore ways to automate the process of assessing previous exam performance and predict if a student will drop the course or needs special attention or not. 
   - <h2> NOTE</h2> We have made a dashboard for better understanding of the results  click the link provided 👇.
-   * [Check out the Dashboard for better results](https://student-recommender-system.herokuapp.com/)
+   * [Check out the Dashboard for better results](https://student-recommender-dashboard.herokuapp.com/)
    * If you want to contribute check 👉[Contribute file](https://github.com/herkura/student-recommender-system/blob/master/Contribute.md).
 
 # Objective
