@@ -189,7 +189,7 @@ train_pred = rf.predict(xTrain)
 test_pred = rf.predict(xTest)
 print("Accuracy:{0:.3f}".format(metrics.accuracy_score(yTest, test_pred)),"\n")
 
-st.markdown(' Note: We used decision trees to predict the student performance and the accuracy was not good so we used Random fores and gradient boosting techniques to improve the accuracy.')
+st.markdown(' Note: We used decision trees to predict the student performance and the accuracy was not good so we used Random forest and gradient boosting techniques to improve the accuracy.')
 st.markdown(' Here are the heatmaps for the accuracy scores for the techniques we have used')
 # Function to plot accuracy
 
