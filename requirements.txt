@@ -14,4 +14,4 @@ streamlit_option_menu==0.3.2
 textacy==0.12.0
 umap-learn==0.5.3
 wordcloud==1.8.2.2
-
+scikit-plot==0.3.7
